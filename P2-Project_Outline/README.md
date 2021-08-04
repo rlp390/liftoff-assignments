@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Project ouchy will let users with no health insurance search for healtcare providers.  They will be able to sort results by distance, cost, procedure needed and average rating of the provider.  This will let users find the best care they can afford.  Project ouchy will also let providers add and update inforation on the procedures they provide as well as the cost to users with no insurance.  
+**Project Ouchy** will let users with no health insurance search for healtcare providers.  They will be able to sort results by distance, cost, procedure needed and average rating of the provider.  This will let users find the best care they can afford.  Project ouchy will also let providers add and update inforation on the procedures they provide as well as the cost to users with no insurance.  
 
 ### Features
 **User Login:**  Providers will be able to create accounts and log in to the application.  Each provider will be able to enter services they provide along with cost.
