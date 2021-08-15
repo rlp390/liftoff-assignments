@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/78380360/129483872-4c8dcbdc-16b3-43c8-a8f7-147cddc62dfc.jpeg)
 # Project Planning
 For this assignment, you'll create some initial plans for your project.
 
@@ -11,6 +12,9 @@ For this assignment, you'll create some initial plans for your project.
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 ![wireframes](https://user-images.githubusercontent.com/78380360/129254917-c5be01d8-1eef-4f37-90b3-81693f5d4ded.png)
+
+![image](https://user-images.githubusercontent.com/78380360/129483882-67cfa2dc-d6ee-490e-8578-a483b824bf97.jpeg)
+
 
 ### Project Tracker
 
